@@ -1,0 +1,14 @@
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\bin\Debug\net7.0\29-MethodUygulaması.exe
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\bin\Debug\net7.0\29-MethodUygulaması.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\bin\Debug\net7.0\29-MethodUygulaması.runtimeconfig.json
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\bin\Debug\net7.0\29-MethodUygulaması.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\bin\Debug\net7.0\29-MethodUygulaması.pdb
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\refint\29-MethodUygulaması.dll
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.pdb
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\29-MethodUygulaması.genruntimeconfig.cache
+C:\Users\gokha\OneDrive\Masaüstü\C Sharp\29-MethodUygulaması\obj\Debug\net7.0\ref\29-MethodUygulaması.dll
